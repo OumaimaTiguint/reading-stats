@@ -1,26 +1,33 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import data from "./data.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  constructor() {
+    super();
+    this.state = {
+      count: 0
+    }
+  }
+
+  componentDidMount() {
+    const pagesArr = [];
+    data.data.map(elem => pagesArr.push(elem.pages))
+    const count = pagesArr.reduce((a, b) => a + b, 0);
+    //console.log(count)
+    this.setState({
+      count: count
+    })
+  }
+
+  render() {
+    return (
+      <div className="App">
+        <h1>2020 Reading Stats</h1>
+        <h2>{this.state.count} Pages over {Object.keys(data.data).length} Books</h2>
+      </div>
+    );
+  }
 }
 
 export default App;
