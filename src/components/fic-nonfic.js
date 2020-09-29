@@ -1,6 +1,7 @@
 import React from 'react';
 import data from '../data.json';
 import {Doughnut} from 'react-chartjs-2';
+import '../App.css';
 
 let fic = 0;
 let nonfic = 0;
@@ -35,7 +36,7 @@ const state = {
 class FicNonFic extends React.Component {
     render() {
         return (
-            <div className="App">
+            <div className="components">
                 <Doughnut
                     data={state}
                     options={{

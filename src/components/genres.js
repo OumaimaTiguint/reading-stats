@@ -1,6 +1,7 @@
 import React from 'react';
 import data from '../data.json';
 import {Doughnut} from 'react-chartjs-2';
+import '../App.css';
 
 let scifi = 0;
 let fantasy = 0;
@@ -50,7 +51,7 @@ const state = {
 class Genres extends React.Component {
     render() {
         return (
-            <div className="App">
+            <div className="components">
                 <Doughnut
                     data={state}
                     options={{

@@ -7,15 +7,18 @@ import Genres from './components/genres';
 import LanguagesRead from './components/languages-read';
 import OriginalLang from './components/original-lang';
 import Authors from './components/authors';
+import './App.css';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <FicNonFic />
-    <Genres />
-    <LanguagesRead />
-    <OriginalLang />
-    <Authors />
+    <div className="chart">
+      <FicNonFic />
+      <Genres />
+      <LanguagesRead />
+      <OriginalLang />
+      <Authors />
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );

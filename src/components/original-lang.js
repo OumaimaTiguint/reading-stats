@@ -1,6 +1,7 @@
 import React from 'react';
 import data from '../data.json';
 import {Doughnut} from 'react-chartjs-2';
+import '../App.css';
 
 let english = 0;
 let french = 0;
@@ -55,7 +56,7 @@ const state = {
 class OriginalLang extends React.Component {
     render() {
         return (
-            <div className="App">
+            <div className="components">
                 <Doughnut
                     data={state}
                     options={{
