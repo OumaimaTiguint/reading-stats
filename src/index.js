@@ -7,6 +7,7 @@ import Genres from './components/genres';
 import LanguagesRead from './components/languages-read';
 import OriginalLang from './components/original-lang';
 import Authors from './components/authors';
+import Favorites from './components/favorites';
 import './App.css';
 
 ReactDOM.render(
@@ -19,6 +20,7 @@ ReactDOM.render(
       <OriginalLang />
       <Authors />
     </div>
+    <Favorites />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -21,12 +21,12 @@ const state = {
         {
             label: 'Authors',
             backgroundColor: [
-                '#B21F00',
-                '#C9DE00'
+                '#ff6666',
+                '#779876'
             ],
             hoverBackgroundColor: [
-                '#501800',
-                '#4B5000'
+                '#901600',
+                '#00580a'
             ],
             data: [male, female]
         }

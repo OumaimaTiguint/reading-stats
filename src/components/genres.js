@@ -32,9 +32,9 @@ const state = {
             backgroundColor: [
                 '#B21F00',
                 '#C9DE00',
-                '#9a5863',
-                '#370518',
-                '#1a1a1a'
+                '#e9a6af',
+                '#898484',
+                '#c6ab81'
             ],
             hoverBackgroundColor: [
                 '#501800',
