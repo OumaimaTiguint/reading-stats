@@ -9,11 +9,13 @@ import OriginalLang from './components/original-lang';
 import Authors from './components/authors';
 import Favorites from './components/favorites';
 import NewReleases from './components/new-releases';
+import AvgRating from './components/avg-rating';
 import './App.css';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    <AvgRating />
     <div className="chart">
       <FicNonFic />
       <Genres />
