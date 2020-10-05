@@ -7,7 +7,21 @@ class List extends React.Component {
         return (
             <div className="App">
                 <h2>Eeverything I read in 2020</h2>
-        {data.data.map((elem, i) => <p key={i}><strong>{elem.title}</strong> by {elem.author} <strong>{elem.rating}/5</strong></p>)}
+                <table>
+                    <tr>
+                        <th>Title</th>
+                        <th>Author</th>
+                        <th>Rating</th>
+                        <th>Pages</th>
+                    </tr>
+
+                    {data.data.map((elem, i) => <tr key={i}>
+                        <td>{elem.title}</td>
+                        <td>{elem.author}</td>
+                        <td>{elem.rating}/5</td>
+                        <td>{elem.pages}</td>
+                    </tr>)}
+                </table>
             </div>
         )
     }

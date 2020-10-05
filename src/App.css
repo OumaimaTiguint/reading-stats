@@ -24,3 +24,17 @@ img {
     margin: 20px
   }
 }
+
+table {
+  width: 80%;
+  margin: 10px auto
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+}
