@@ -1,7 +1,19 @@
+body {
+  background-color: #f1f3f8;
+}
+
+.title {
+  background-color: #393b44;
+  color: #f1f3f8;
+  font-size: 2em;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px
+}
 .App {
   text-align: center;
   width: 80%;
-  margin: 0 auto
+  margin: 0 auto;
 }
 
 img {
@@ -10,17 +22,23 @@ img {
 }
 
 @media screen and (min-width: 540px) {
+  .top {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "n-release charts";
+    margin: 10px
+  }
   .chart {
-    display:flex;
-    flex-direction:row;
-    justify-content: space-around;
-    overflow-y: visible;
-    overflow-x: auto;
     width: 80%;
-    margin: 10px auto
+    margin: 10px auto;
+    grid-area: charts;
+  }
+  .n-release {
+    grid-area: n-release;
+    border-right: 1px solid #8d93ab;
   }
   .components {
-    width: 50%;
+    width: 70%;
     margin: 20px
   }
 }

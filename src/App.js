@@ -22,10 +22,14 @@ class App extends React.Component {
 
   render() {
     return (
+      <>
+      <div className="title">
+          <h1>2020 Reading Stats</h1>
+        </div>
       <div className="App">
-        <h1>2020 Reading Stats</h1>
         <h2>{this.state.count} Pages over {Object.keys(data.data).length} Books</h2>
       </div>
+      </>
     );
   }
 }

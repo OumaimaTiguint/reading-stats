@@ -17,6 +17,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
     <AvgRating />
+    <div className="top">
     <div className="chart">
       <FicNonFic />
       <Genres />
@@ -25,6 +26,7 @@ ReactDOM.render(
       <Authors />
     </div>
     <NewReleases />
+    </div>
     <Favorites />
     <List />
   </React.StrictMode>,

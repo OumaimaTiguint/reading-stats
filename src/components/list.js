@@ -13,6 +13,7 @@ class List extends React.Component {
                         <th>Author</th>
                         <th>Rating</th>
                         <th>Pages</th>
+                        <th>Publication Date</th>
                     </tr>
 
                     {data.data.map((elem, i) => <tr key={i}>
@@ -20,6 +21,7 @@ class List extends React.Component {
                         <td>{elem.author}</td>
                         <td>{elem.rating}/5</td>
                         <td>{elem.pages}</td>
+                        <td>{elem["pub-date"]}</td>
                     </tr>)}
                 </table>
             </div>

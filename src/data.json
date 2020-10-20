@@ -626,6 +626,61 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english"
+        },
+        {
+            "title": "My Cousin Rachel",
+            "author": "Daphne Du Maurier",
+            "sex": "female",
+            "pages": 352,
+            "pub-date": 1951,
+            "genres": ["thriller", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english"
+        },
+        {
+            "title": "Before I Go To Sleep",
+            "author": "S. J. Watson",
+            "sex": "male",
+            "pages": 352,
+            "pub-date": 2011,
+            "genres": ["thriller", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english"
+        },
+        {
+            "title": "NeverWorld Wake",
+            "author": "Marisha Pessl",
+            "sex": "female",
+            "pages": 328,
+            "pub-date": 2018,
+            "genres": ["thriller", "sci-fi", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english"
+        },
+        {
+            "title": "End of Watch",
+            "author": "Stephen King",
+            "sex": "male",
+            "pages": 432,
+            "pub-date": 2016,
+            "genres": ["thriller", "fiction"],
+            "rating": 4,
+            "Lang-read": "french",
+            "original-lang": "english"
+        },
+        {
+            "title": "Stories of your life and others",
+            "author": "Ted Chiang",
+            "sex": "male",
+            "pages": 281,
+            "pub-date": 2002,
+            "genres": ["sci-fi", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english"
         }
     ]
 }

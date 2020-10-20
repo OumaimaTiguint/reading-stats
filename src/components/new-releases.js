@@ -14,7 +14,7 @@ data.data.map(e => {
 class NewReleases extends React.Component {
     render() {
         return (
-            <div className="App">
+            <div className="App n-release">
                 <h2>2020 Releases</h2>
         {newRelease.map((elem, i) => <p key={i}>{elem.title} by {elem.author}</p>)}
             </div>
