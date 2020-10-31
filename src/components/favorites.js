@@ -22,7 +22,7 @@ const favorites = [
 class Favorites extends React.Component {
     render() {
         return(
-            <div className="App">
+            <div className="favorites">
                 <h2>Favorites</h2>
                 {favorites.map((elem, i) => <img key={i} alt={elem.title} src={require('../favorites/' + elem.img)}/>)}
             </div>

@@ -5,8 +5,8 @@ import '../App.css';
 class List extends React.Component {
     render() {
         return (
-            <div className="App">
-                <h2>Eeverything I read in 2020</h2>
+            <div className="list">
+                <h2>Everything I read in 2020</h2>
                 <table>
                     <tr>
                         <th>Title</th>
@@ -14,6 +14,7 @@ class List extends React.Component {
                         <th>Rating</th>
                         <th>Pages</th>
                         <th>Publication Date</th>
+                        <th>Original Language</th>
                     </tr>
 
                     {data.data.map((elem, i) => <tr key={i}>
@@ -22,6 +23,7 @@ class List extends React.Component {
                         <td>{elem.rating}/5</td>
                         <td>{elem.pages}</td>
                         <td>{elem["pub-date"]}</td>
+                        <td>{elem["original-lang"]}</td>
                     </tr>)}
                 </table>
             </div>

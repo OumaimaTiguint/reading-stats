@@ -1,48 +1,110 @@
 body {
-  background-color: #f1f3f8;
+  background-color: #F4F4F2;
+  margin: 15px
+}
+.title {
+  grid-area: title;
+  color: #495464;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 3%;
+  font-family: 'Poppins', sans-serif;
+}
+.pages h2 {
+  grid-area: pages;
+  font-weight: 22px;
+  font-weight: medium;
+  font-family: 'Poppins', sans-serif;
+  text-align: right;
 }
 
-.title {
-  background-color: #393b44;
-  color: #f1f3f8;
-  font-size: 2em;
+.pages h3 {
+  grid-area: pages;
+  font-weight: 20px;
+  font-weight: medium;
+  font-family: 'Poppins', sans-serif;
+  text-align: right;
+}
+.pages Rating {
+  justify-content: right;
+}
+
+.top {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: 
+  "title pages"
+  "title rating";
+}
+.favorites {
+  width: 50%;
+  background-color: #E8E8E8;
+  border-radius: 10px;
+  margin: 5px;
+  align-items: center;
+}
+.favorites h2 {
   text-align: center;
-  margin: 0 auto;
+  grid-area: title;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
   padding: 10px
 }
-.App {
+.favorites img {
+  width: 20%;
+  height: 180px;
+  margin: 15px
+}
+.third {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas: "n-release charts";
+}
+.n-release {
+  grid-area: n-release;
+  background-color: #E8E8E8;
+  width: 60%;
+  padding: 10px;
+  border-radius: 10px;
   text-align: center;
-  width: 80%;
-  margin: 0 auto;
+  margin: 5px
 }
-
-img {
-  height: 250px;
-  margin: 10px
+.n-release h2 {
+  text-align: center;
+  grid-area: title;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px
 }
-
-@media screen and (min-width: 540px) {
-  .top {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-areas: "n-release charts";
-    margin: 10px
-  }
-  .chart {
-    width: 80%;
-    margin: 10px auto;
-    grid-area: charts;
-  }
-  .n-release {
-    grid-area: n-release;
-    border-right: 1px solid #8d93ab;
-  }
-  .components {
-    width: 70%;
-    margin: 20px
-  }
+.charts {
+  grid-area: charts;
+  margin-top: 20px
 }
-
+.components {
+  width: 50%;
+}
+.row1 {
+  display: flex;
+  flex-direction: row
+}
+.row2 {
+  display: flex;
+  flex-direction:  row
+}
+.list {
+  text-align: center;
+  margin: 20px
+}
+.list h2 {
+  text-align: center;
+  grid-area: title;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+  padding: 10px
+}
 table {
   width: 80%;
   margin: 10px auto

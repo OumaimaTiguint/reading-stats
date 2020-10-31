@@ -15,19 +15,28 @@ import './App.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
-    <AvgRating />
     <div className="top">
-    <div className="chart">
-      <FicNonFic />
-      <Genres />
-      <LanguagesRead />
-      <OriginalLang />
-      <Authors />
+      <App />
+      <AvgRating />
     </div>
-    <NewReleases />
+    <div className="second">
+      <Favorites />
     </div>
-    <Favorites />
+    <div className="third">
+      <NewReleases />
+      <div className="charts">
+        <div className="row1">
+          <FicNonFic />
+          <Genres />
+          <Authors />
+        </div>
+        <div className="row2">
+          <OriginalLang />
+          <LanguagesRead />
+        </div>
+      </div>
+    </div>
+    
     <List />
   </React.StrictMode>,
   document.getElementById('root')
