@@ -56,6 +56,9 @@ body {
   height: 180px;
   margin: 15px
 }
+.map {
+  height: 400px
+}
 .third {
   display: grid;
   grid-template-columns: 1fr 1fr;

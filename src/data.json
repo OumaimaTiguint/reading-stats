@@ -10,7 +10,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [39.045753, -76.641273]
+            "coordinates": [39.045753, -76.641273],
+            "country": "USA"
         },
         {
             "title": "The egg",
@@ -22,7 +23,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [36.778259, -119.417931]
+            "coordinates": [36.778259, -119.417931],
+            "country": "USA"
         },
         {
             "title": "Lucky Jim",
@@ -34,7 +36,8 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [51.509865, -0.118092]
+            "coordinates": [51.509865, -0.118092],
+            "country": "UK"
         },
         {
             "title": "Nevernight",
@@ -46,7 +49,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [-31.953512, 115.857048]
+            "coordinates": [-31.953512, 115.857048],
+            "country": "Australia"
         },
         {
             "title": "A brief history of time",
@@ -58,7 +62,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [51.752022, -1.257677]
+            "coordinates": [51.752022, -1.257677],
+            "country":"UK"
         },
         {
             "title": "Godsgrave",
@@ -70,7 +75,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [-31.953512, 115.857048]
+            "coordinates": [-31.953512, 115.857048],
+            "country":"Australia"
         },
         {
             "title": "Monster vol. 1",
@@ -82,7 +88,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 2",
@@ -94,7 +101,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Darkdawn",
@@ -106,7 +114,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [-31.953512, 115.857048]
+            "coordinates": [-31.953512, 115.857048],
+            "country":"Australia"
         },
         {
             "title": "Monster vol. 3",
@@ -118,7 +127,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 4",
@@ -130,7 +140,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 5",
@@ -142,7 +153,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 6",
@@ -154,7 +166,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 7",
@@ -166,7 +179,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 8",
@@ -178,7 +192,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Monster vol. 9",
@@ -190,7 +205,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 10",
@@ -202,7 +218,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 11",
@@ -214,7 +231,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 12",
@@ -226,7 +244,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 13",
@@ -238,7 +257,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 14",
@@ -250,7 +270,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 15",
@@ -262,7 +283,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 16",
@@ -274,7 +296,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 17",
@@ -286,7 +309,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Monster vol. 18",
@@ -298,7 +322,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [35.652832, 139.839478]
+            "coordinates": [35.652832, 139.839478],
+            "country":"Japan"
         },
         {
             "title": "The body",
@@ -310,7 +335,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [51.509865, -0.118092]
+            "coordinates": [51.509865, -0.118092],
+            "country":"USA"
         },
         {
             "title": "Le malade imaginaire",
@@ -322,7 +348,8 @@
             "rating": 3,
             "Lang-read": "french",
             "original-lang": "french",
-            "country": [48.8534, 2.3488]
+            "coordinates": [48.8534, 2.3488],
+            "country": "France"
         },
         {
             "title": "A man called Ove",
@@ -334,7 +361,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "swedish",
-            "country": [41.0992, -74.5283]
+            "coordinates": [41.0992, -74.5283],
+            "country": "Sweden"
         },
         {
             "title": "Station Eleven",
@@ -346,7 +374,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [40.730610, -73.935242]
+            "coordinates": [40.730610, -73.935242],
+            "country": "USA"
         },
         {
             "title": "Machines like me",
@@ -358,7 +387,8 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [51.2483, -0.7639]
+            "coordinates": [51.2483, -0.7639],
+            "country":"UK"
         },
         {
             "title": "The grownup",
@@ -370,7 +400,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [38.573936, -92.603760]
+            "coordinates": [38.573936, -92.603760],
+            "country": "USA"
         },
         {
             "title": "The lathe of heaven",
@@ -382,7 +413,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [36.778259, -119.417931]
+            "coordinates": [36.778259, -119.417931],
+            "country": "no idea"
         },
         {
             "title": "Reasons to stay alive",
@@ -394,7 +426,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.5500, 2.4333]
+            "coordinates": [53.5500, 2.4333],
+            "country":"UK"
         },
         {
             "title": "Miracle creek",
@@ -406,7 +439,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.532600, 127.024612]
+            "coordinates": [37.532600, 127.024612],
+            "country": "South Korea"
         },
         {
             "title": "Uzumaki vol. 1",
@@ -418,7 +452,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "Uzumaki vol. 2",
@@ -430,7 +465,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Uzumaki vol. 3",
@@ -442,7 +478,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country":"Japan"
         },
         {
             "title": "How to stop time",
@@ -454,7 +491,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.5500, 2.4333]
+            "coordinates": [53.5500, 2.4333],
+            "country": "UK"
         },
         {
             "title": "Orange vol. 1",
@@ -466,7 +504,8 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "Orange vol. 2",
@@ -478,7 +517,8 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "أرض زيكولا",
@@ -490,7 +530,8 @@
             "rating": 4,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "country": [26.820553, 30.802498]
+            "coordinates": [26.820553, 30.802498],
+            "country": "Egypt"
         },
         {
             "title": "Invisible women",
@@ -501,8 +542,9 @@
             "genres": ["non-fiction"],
             "rating": 5,
             "Lang-read": "english",
-            "original-lang": "portuguese",
-            "country": [53.5500, 2.4333]
+            "original-lang": "english",
+            "coordinates": [53.5500, 2.4333],
+            "country": "UK"
         },
         {
             "title": "Scythe",
@@ -514,7 +556,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "Thunderhead",
@@ -526,7 +569,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "The picture of Dorian Gray",
@@ -538,7 +582,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.1424, 7.6921]
+            "coordinates": [53.1424, 7.6921],
+            "country": "Ireland"
         },
         {
             "title": "The toll",
@@ -550,7 +595,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "أماريتا",
@@ -559,10 +605,11 @@
             "pages": 327,
             "pub-date": 2016,
             "genres": ["fantasy", "fiction"],
-            "rating": 4,
+            "rating": 3,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "country": [26.820553, 30.802498]
+            "coordinates": [26.820553, 30.802498],
+            "country": "Egypt"
         },
         {
             "title": "Notes on a nervous planet",
@@ -574,7 +621,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.5500, 2.4333]
+            "coordinates": [53.5500, 2.4333],
+            "country": "UK"
         },
         {
             "title": "Maybe you should talk to someone",
@@ -586,7 +634,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "Get a life Chloe Brown",
@@ -598,7 +647,8 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "The travelling cat chronicles",
@@ -610,7 +660,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "The midnight library",
@@ -622,7 +673,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.5500, 2.4333]
+            "coordinates": [53.5500, 2.4333],
+            "country": "UK"
         },
         {
             "title": "Emergency skin",
@@ -634,7 +686,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country":"USA"
         },
         {
             "title": "1Q84",
@@ -646,7 +699,8 @@
             "rating": 1,
             "Lang-read": "french",
             "original-lang": "japanese",
-            "country": [36.2048, 138.2529]
+            "coordinates": [36.2048, 138.2529],
+            "country": "Japan"
         },
         {
             "title": "I'm thinking of ending things",
@@ -658,7 +712,8 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [56.130366, -106.346771]
+            "coordinates": [56.130366, -106.346771],
+            "country": "Canada"
         },
         {
             "title": "The radium girls",
@@ -670,7 +725,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country":"USA"
         },
         {
             "title": "The night swim",
@@ -682,7 +738,8 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country":"USA"
         },
         {
             "title": "My Cousin Rachel",
@@ -694,7 +751,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.5500, 2.4333]
+            "coordinates": [53.5500, 2.4333],
+            "country":"UK"
         },
         {
             "title": "Before I Go To Sleep",
@@ -706,7 +764,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [53.5500, 2.4333]
+            "coordinates": [53.5500, 2.4333],
+            "country": "UK"
         },
         {
             "title": "NeverWorld Wake",
@@ -718,7 +777,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "End of Watch",
@@ -730,7 +790,8 @@
             "rating": 4,
             "Lang-read": "french",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "Stories of your life and others",
@@ -742,7 +803,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": [37.09024, -95.712891]
+            "coordinates": [37.09024, -95.712891],
+            "country": "USA"
         },
         {
             "title": "قواعد جارتين",
@@ -754,7 +816,8 @@
             "rating": 4,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "country": [26.820553, 30.802498]
+            "coordinates": [26.820553, 30.802498],
+            "country":"Egypt"
         }
     ]
 }

@@ -8,7 +8,6 @@ let french = 0;
 let arabic = 0;
 let japanese = 0;
 let swedish = 0;
-let portuguese = 0;
 
 data.data.map(e => {
     if(e["original-lang"]==="english") {
@@ -21,14 +20,12 @@ data.data.map(e => {
         return japanese ++;
     } else if(e["original-lang"]==="swedish") {
         return swedish ++;
-    } else if(e["original-lang"]==="portuguese") {
-        return portuguese ++;
     } 
-    return { english, french, arabic, japanese, swedish, portuguese }
+    return { english, french, arabic, japanese, swedish }
 })
 
 const state = {
-    labels: ['English', 'French', 'Arabic', 'Japanese', 'Swedish', 'Portuguese'],
+    labels: ['English', 'French', 'Arabic', 'Japanese', 'Swedish'],
     datasets: [
         {
             label: 'Original Languages',
@@ -37,18 +34,16 @@ const state = {
                 '#C9DE00',
                 '#9a5863',
                 '#370518',
-                '#1a1a1a',
-                '#d7a036',
+                '#1a1a1a'
             ],
             hoverBackgroundColor: [
                 '#501800',
                 '#4B5000',
                 '#876974',
                 '#261228',
-                '#d7a036',
-                '#1a1a1a'
+                '#d7a036'
             ],
-            data: [english, french, arabic, japanese, swedish, portuguese]
+            data: [english, french, arabic, japanese, swedish]
         }
     ]
 }
