@@ -10,7 +10,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [39.045753, -76.641273],
             "country": "USA"
         },
         {
@@ -36,7 +35,6 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [51.509865, -0.118092],
             "country": "UK"
         },
         {
@@ -49,7 +47,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [-31.953512, 115.857048],
             "country": "Australia"
         },
         {
@@ -62,7 +59,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [51.752022, -1.257677],
             "country":"UK"
         },
         {
@@ -75,7 +71,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [-31.953512, 115.857048],
             "country":"Australia"
         },
         {
@@ -88,7 +83,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -101,7 +95,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -114,7 +107,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [-31.953512, 115.857048],
             "country":"Australia"
         },
         {
@@ -127,7 +119,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -140,7 +131,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -153,7 +143,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -166,7 +155,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -179,7 +167,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -192,7 +179,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -205,7 +191,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -218,7 +203,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -231,7 +215,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -244,7 +227,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -257,7 +239,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -270,7 +251,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -283,7 +263,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -296,7 +275,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -309,7 +287,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -322,7 +299,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [35.652832, 139.839478],
             "country":"Japan"
         },
         {
@@ -335,7 +311,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [51.509865, -0.118092],
             "country":"USA"
         },
         {
@@ -348,7 +323,6 @@
             "rating": 3,
             "Lang-read": "french",
             "original-lang": "french",
-            "coordinates": [48.8534, 2.3488],
             "country": "France"
         },
         {
@@ -361,7 +335,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "swedish",
-            "coordinates": [41.0992, -74.5283],
             "country": "Sweden"
         },
         {
@@ -374,7 +347,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [40.730610, -73.935242],
             "country": "USA"
         },
         {
@@ -387,7 +359,6 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [51.2483, -0.7639],
             "country":"UK"
         },
         {
@@ -400,7 +371,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [38.573936, -92.603760],
             "country": "USA"
         },
         {
@@ -413,7 +383,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [36.778259, -119.417931],
             "country": "no idea"
         },
         {
@@ -426,7 +395,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.5500, 2.4333],
             "country":"UK"
         },
         {
@@ -439,7 +407,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.532600, 127.024612],
             "country": "South Korea"
         },
         {
@@ -452,7 +419,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -465,7 +431,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -478,7 +443,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country":"Japan"
         },
         {
@@ -491,7 +455,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.5500, 2.4333],
             "country": "UK"
         },
         {
@@ -517,7 +480,6 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -530,7 +492,6 @@
             "rating": 4,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "coordinates": [26.820553, 30.802498],
             "country": "Egypt"
         },
         {
@@ -556,7 +517,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -569,7 +529,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -582,7 +541,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.1424, 7.6921],
             "country": "Ireland"
         },
         {
@@ -595,7 +553,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -608,7 +565,6 @@
             "rating": 3,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "coordinates": [26.820553, 30.802498],
             "country": "Egypt"
         },
         {
@@ -621,7 +577,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.5500, 2.4333],
             "country": "UK"
         },
         {
@@ -634,7 +589,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -647,7 +601,6 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -660,7 +613,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -673,7 +625,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.5500, 2.4333],
             "country": "UK"
         },
         {
@@ -686,7 +637,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country":"USA"
         },
         {
@@ -699,7 +649,6 @@
             "rating": 1,
             "Lang-read": "french",
             "original-lang": "japanese",
-            "coordinates": [36.2048, 138.2529],
             "country": "Japan"
         },
         {
@@ -712,7 +661,6 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [56.130366, -106.346771],
             "country": "Canada"
         },
         {
@@ -725,7 +673,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country":"USA"
         },
         {
@@ -738,7 +685,6 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country":"USA"
         },
         {
@@ -751,7 +697,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.5500, 2.4333],
             "country":"UK"
         },
         {
@@ -764,7 +709,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [53.5500, 2.4333],
             "country": "UK"
         },
         {
@@ -777,7 +721,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -790,7 +733,6 @@
             "rating": 4,
             "Lang-read": "french",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -803,7 +745,6 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "coordinates": [37.09024, -95.712891],
             "country": "USA"
         },
         {
@@ -816,7 +757,6 @@
             "rating": 4,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "coordinates": [26.820553, 30.802498],
             "country":"Egypt"
         }
     ]

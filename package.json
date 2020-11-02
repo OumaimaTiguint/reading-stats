@@ -11,11 +11,11 @@
     "chart.js": "^2.9.4",
     "d3-fetch": "^2.0.0",
     "d3-scale": "^3.2.3",
-    "leaflet": "^1.7.1",
+    "devextreme": "20.2.3",
+    "devextreme-react": "20.2.3",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.10.0",
     "react-dom": "^16.13.1",
-    "react-leaflet": "^3.0.0-rc.0",
     "react-scripts": "3.4.3",
     "react-simple-maps": "^2.3.0"
   },
