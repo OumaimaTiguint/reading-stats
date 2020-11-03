@@ -758,6 +758,30 @@
             "Lang-read": "arabic",
             "original-lang": "arabic",
             "country":"Egypt"
+        },
+        {
+            "title": "Packing for Mars: The Curious Science of Life in the Void",
+            "author": "Mary Roach",
+            "sex": "female",
+            "pages": 334,
+            "pub-date": 2010,
+            "genres": ["non-fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country":"USA"
+        },
+        {
+            "title": "Gyo",
+            "author": "Junji Ito",
+            "sex": "male",
+            "pages": 400,
+            "pub-date": 2002,
+            "genres": ["fantasy","thriller", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "japanese",
+            "country":"Japan"
         }
     ]
 }
