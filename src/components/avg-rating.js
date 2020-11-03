@@ -11,8 +11,6 @@ data.data.map(e => {
 })
 
 let n = (sum/data.data.length).toFixed(2)
-let prec = (n % 1).toFixed(1)
-//console.log(prec)
 
 class AvgRating extends React.Component {
     render() {
@@ -20,9 +18,10 @@ class AvgRating extends React.Component {
             <div className="pages">
                 <h3>Average Rating: </h3>
                 <Rating 
-                    name="half-rating" 
-                    value={(sum/data.data.length).toFixed(2)} 
-                    precision={prec}
+                    className="rating" 
+                    name="half-rating-read" 
+                    defaultValue={n} 
+                    precision={0.5} 
                     readOnly />
             </div>
         )

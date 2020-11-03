@@ -9,7 +9,7 @@ import OriginalLang from './components/original-lang';
 import Authors from './components/authors';
 import Favorites from './components/favorites';
 import NewReleases from './components/new-releases';
-//import AvgRating from './components/avg-rating';
+import AvgRating from './components/avg-rating';
 import List from './components/list';
 import './App.css';
 import MapChart from './components/map';
@@ -18,6 +18,7 @@ ReactDOM.render(
   <React.StrictMode>
     <div className="top">
       <App />
+      <AvgRating />
     </div>
     <div className="second">
       <Favorites />
