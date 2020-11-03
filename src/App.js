@@ -25,7 +25,7 @@ class App extends React.Component {
     return (
       <>
       <div className="title">
-          <h1>Reading Stats</h1>
+          <h1>2020 Reading Stats</h1>
         </div>
       <div className="pages">
         <h2>{this.state.count} Pages over {Object.keys(data.data).length} Books</h2>
