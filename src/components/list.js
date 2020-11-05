@@ -7,7 +7,8 @@ class List extends React.Component {
         return (
             <div className="list">
                 <h2>Everything I read in 2020</h2>
-                <table>
+                <table className="table">
+                    <thead>
                     <tr>
                         <th>Title</th>
                         <th>Author</th>
@@ -16,7 +17,8 @@ class List extends React.Component {
                         <th>Publication Date</th>
                         <th>Original Language</th>
                     </tr>
-
+                    </thead>
+                    <tbody>
                     {data.data.map((elem, i) => <tr key={i}>
                         <td>{elem.title}</td>
                         <td>{elem.author}</td>
@@ -25,6 +27,7 @@ class List extends React.Component {
                         <td>{elem["pub-date"]}</td>
                         <td>{elem["original-lang"]}</td>
                     </tr>)}
+                    </tbody>
                 </table>
             </div>
         )
