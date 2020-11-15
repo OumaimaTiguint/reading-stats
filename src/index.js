@@ -27,15 +27,11 @@ ReactDOM.render(
     <div className="third">
       <NewReleases />
       <div className="charts">
-        <div className="row1">
-          <FicNonFic />
+        <FicNonFic />
           <Genres />
           <Authors />
-        </div>
-        <div className="row2">
           <OriginalLang />
           <LanguagesRead />
-        </div>
       </div>
     </div>
     
