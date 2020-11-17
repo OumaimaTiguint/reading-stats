@@ -782,6 +782,18 @@
             "Lang-read": "english",
             "original-lang": "japanese",
             "country":"Japan"
+        },
+        {
+            "title": "The Devil and The Dark Water",
+            "author": "Stuart Turton",
+            "sex": "male",
+            "pages": 463,
+            "pub-date": 2020,
+            "genres": ["thriller", "fiction"],
+            "rating": 5,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country":"UK"
         }
     ]
 }
