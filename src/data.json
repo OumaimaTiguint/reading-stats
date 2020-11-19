@@ -794,6 +794,18 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country":"UK"
+        },
+        {
+            "title": "Genki I: An Integrated Course in Elementary Japanese",
+            "author": "Eri Banno",
+            "sex": "male",
+            "pages": 344,
+            "pub-date": 1999,
+            "genres": ["non-fiction"],
+            "rating": null,
+            "Lang-read": "japanese",
+            "original-lang": "japanese",
+            "country":"Japan"
         }
     ]
 }
