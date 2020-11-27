@@ -806,6 +806,18 @@
             "Lang-read": "japanese",
             "original-lang": "japanese",
             "country":"Japan"
+        },
+        {
+            "title": "Awakening Your Ikigai: How the Japanese Wake Up to Joy and Purpose Every Day",
+            "author": "Ken Mogi",
+            "sex": "male",
+            "pages": 224,
+            "pub-date": 2017,
+            "genres": ["non-fiction"],
+            "rating": 3,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country":"Japan"
         }
     ]
 }
