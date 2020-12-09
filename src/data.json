@@ -818,6 +818,18 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country":"Japan"
+        },
+        {
+            "title": "The Burning God",
+            "author": "R. F. Kuang",
+            "sex": "female",
+            "pages": 640,
+            "pub-date": 2020,
+            "genres": ["fantasy", "fiction"],
+            "rating": 5,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country":"China"
         }
     ]
 }

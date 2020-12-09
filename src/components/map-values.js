@@ -9,7 +9,8 @@ let egpt = 0;
 let irlnd = 0;
 let skr = 0;
 let swdn =0;
-let frnc = 0
+let frnc = 0;
+let china = 0;
 
 data.data.map(elem => {
     if(elem.country === 'USA') {
@@ -32,8 +33,10 @@ data.data.map(elem => {
         swdn++
     } else if(elem.country === 'France') {
         frnc++
+    } else if(elem.country === 'China') {
+        china++
     }
-    return {usa, uk, aus, jpn, egpt, cnd, irlnd, skr, swdn, frnc};
+    return {usa, uk, aus, jpn, egpt, cnd, irlnd, skr, swdn, frnc, china};
 })
 
 export const markers = {
@@ -88,6 +91,11 @@ export const markers = {
         coordinates: [1.7191, 46.7111],
         text: 'France',
         value: frnc
+      },
+      {
+        coordinates: [104.1361, 35.8593],
+        text: 'China',
+        value: china
       }
     ].map(data => {
         return {
