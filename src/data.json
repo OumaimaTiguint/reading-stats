@@ -830,6 +830,18 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country":"China"
+        },
+        {
+            "title": "One By One",
+            "author": "Ruth Ware",
+            "sex": "female",
+            "pages": 372,
+            "pub-date": 2020,
+            "genres": ["thriller", "fiction"],
+            "rating": 5,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country":"UK"
         }
     ]
 }
