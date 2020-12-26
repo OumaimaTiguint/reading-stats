@@ -842,6 +842,18 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country":"UK"
+        },
+        {
+            "title": "The Invisible Life of Addie LaRue",
+            "author": "V. E. Schwab",
+            "sex": "female",
+            "pages": 442,
+            "pub-date": 2020,
+            "genres": ["fantasy", "fiction"],
+            "rating": 5,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country":"USA"
         }
     ]
 }

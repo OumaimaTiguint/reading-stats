@@ -20,6 +20,7 @@ const favorites = [
     {title: "The Devil and The Dark Water", img: "devil.jpg"},
     {title: "The Burning God", img: "theburninggod.jpg"},
     {title: "One By One", img: "onebyone.jpg"}
+    {title: "The Invisible Life of Addie LaRue", img: "addie.jpg"}
 ]
 
 class Favorites extends React.Component {
