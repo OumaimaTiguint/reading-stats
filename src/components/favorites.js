@@ -19,7 +19,7 @@ const favorites = [
     {title: "أرض زيكولا", img: "zikola.jpg"},
     {title: "The Devil and The Dark Water", img: "devil.jpg"},
     {title: "The Burning God", img: "theburninggod.jpg"},
-    {title: "One By One", img: "onebyone.jpg"}
+    {title: "One By One", img: "onebyone.jpg"},
     {title: "The Invisible Life of Addie LaRue", img: "addie.jpg"}
 ]
 
