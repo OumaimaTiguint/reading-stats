@@ -1,4 +1,5 @@
-import data from '../data/data.json';
+//import dt2020 from '../data/2020.json';
+import { data } from './date-selection';
 
 let usa = 0;
 let uk = 0;

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "title": "Little Women",
+            "author": "Louisa May Alcott",
+            "sex": "female",
+            "pages": 449,
+            "pub-date": 1868,
+            "genres": ["classic", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "USA"
+        }
+    ]
+}

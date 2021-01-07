@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import data from "./data/data.json";
+//import dt2020 from "./data/2020.json";
+import { data } from './components/date-selection';
 
 
 class App extends React.Component {
@@ -25,7 +26,7 @@ class App extends React.Component {
     return (
       <>
       <div className="title">
-          <h1>2020 Reading Stats</h1>
+          <h1>Reading Stats</h1>
         </div>
       <div className="pages">
         <h2>{this.state.count} Pages over {Object.keys(data.data).length} Books</h2>

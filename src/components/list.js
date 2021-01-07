@@ -1,12 +1,13 @@
 import React from 'react';
-import data from '../data/data.json';
+//import dt2020 from '../data/2020.json';
+import { data } from './date-selection';
 import '../App.css';
 
 class List extends React.Component {
     render() {
         return (
             <div className="list">
-                <h2>Everything I read in 2020</h2>
+                <h2>Everything I read this year</h2>
                 <table className="table">
                     <thead>
                     <tr>

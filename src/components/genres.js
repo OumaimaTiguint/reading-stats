@@ -1,7 +1,8 @@
 import React from 'react';
-import data from '../data/data.json';
+//import dt2020 from '../data/2020.json';
 import {Doughnut} from 'react-chartjs-2';
 import '../App.css';
+import {data} from './date-selection';
 
 let scifi = 0;
 let fantasy = 0;
