@@ -1,4 +1,4 @@
-import data from '../data.json';
+import data from '../data/data.json';
 
 let usa = 0;
 let uk = 0;

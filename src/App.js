@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import data from "./data.json";
+import data from "./data/data.json";
 
 
 class App extends React.Component {

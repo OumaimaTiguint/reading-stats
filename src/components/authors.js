@@ -1,5 +1,5 @@
 import React from 'react';
-import data from '../data.json';
+import data from '../data/data.json';
 import {Doughnut} from 'react-chartjs-2';
 import '../App.css';
 
