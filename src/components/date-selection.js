@@ -3,7 +3,7 @@ import dt2020 from '../data/2020.json';
 import dt2021 from '../data/2021.json';
 import '../App.css';
 
-export let data = dt2021;
+export let data = dt2020;
 
 class DateSelection extends React.Component {
     constructor() {
