@@ -13,12 +13,10 @@ import AvgRating from './components/avg-rating';
 import List from './components/list';
 import './App.css';
 import MapChart from './components/map';
-import DateSelection from './components/date-selection';
 
 ReactDOM.render(
   <React.StrictMode>
     <div className="top">
-      <DateSelection />
       <App />
       <AvgRating />
     </div>
