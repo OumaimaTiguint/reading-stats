@@ -1,6 +1,6 @@
 import React from 'react';
 //import dt2020 from '../data/2020.json';
-import { data } from './date-selection';
+import data from '../data/2021.json';
 import Rating from '@material-ui/lab/Rating';
 import '../App.css';
 

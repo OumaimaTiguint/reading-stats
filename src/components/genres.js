@@ -2,7 +2,7 @@ import React from 'react';
 //import dt2020 from '../data/2020.json';
 import {Doughnut} from 'react-chartjs-2';
 import '../App.css';
-import {data} from './date-selection';
+import data from '../data/2021.json';
 
 let scifi = 0;
 let fantasy = 0;

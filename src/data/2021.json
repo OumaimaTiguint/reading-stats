@@ -11,6 +11,18 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country": "USA"
+        },
+        {
+            "title": "A Boy Called Christmas",
+            "author": "Matt Haig",
+            "sex": "male",
+            "pages": 247,
+            "pub-date": 2015,
+            "genres": ["fantasy", "fiction"],
+            "rating": 3,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "UK"
         }
     ]
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 //import dt2020 from "./data/2020.json";
-import { data } from './components/date-selection';
+import data from './data/2021.json';
 
 
 class App extends React.Component {
