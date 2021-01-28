@@ -10,7 +10,8 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false
         },
         {
             "title": "A Boy Called Christmas",
@@ -22,7 +23,21 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "UK"
+            "country": "UK",
+            "DNF": false
+        },
+        {
+            "title": "The sparrow",
+            "author": "Mary Doria Russell",
+            "sex": "female",
+            "pages": 516,
+            "pub-date": 1996,
+            "genres": ["sci-fi", "fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "USA",
+            "DNF": false
         }
     ]
 }
