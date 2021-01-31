@@ -21,8 +21,8 @@ ReactDOM.render(
       <AvgRating />
     </div>
     <div className="second">
-      <Favorites />
       <MapChart />
+      <Favorites />
     </div>
     <div className="third">
       <NewReleases />

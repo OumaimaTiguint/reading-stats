@@ -18,6 +18,8 @@ const bounds = [-180, 85, 180, -60];
 export default function MapChart() {
     
     return (
+      <div>
+        <h3 style={{textAlign: 'center'}}>Books from around the world</h3>
         <VectorMap id="vector-map" bounds={bounds}>
             <Layer
                 dataSource={mapsData.world}
@@ -47,6 +49,7 @@ export default function MapChart() {
             <Tooltip enabled={true}
                 customizeTooltip={customizeTooltip} />
         </VectorMap>
+      </div>
     );
 }
 

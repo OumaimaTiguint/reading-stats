@@ -37,17 +37,14 @@ body {
     "title rating";
 }
 .second {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas: "favorites map";
   margin-top: 20px
 }
 .favorites {
-  grid-area: favorites;
   background-color: #E8E8E8;
   border-radius: 10px;
-  margin: 5px;
+  margin: 5px auto;
   align-items: center;
+  width: 80%
 }
 .favorites h2 {
   text-align: center;
@@ -61,17 +58,12 @@ body {
   height: 180px;
   margin: 15px
 }
-#vector-map {
-  grid-area: map;
-}
 .third {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-areas: "n-release charts";
+  display: flex;
+  flex-direction: row;
   margin-top: 20px
 }
 .n-release {
-  grid-area: n-release;
   background-color: #E8E8E8;
   width: 60%;
   padding: 10px;
@@ -81,14 +73,12 @@ body {
 }
 .n-release h2 {
   text-align: center;
-  grid-area: title;
   font-size: 18px;
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
   padding: 10px
 }
 .charts {
-  grid-area: charts;
   margin-top: 20px;
   display: flex;
   flex-direction: row;
