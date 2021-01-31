@@ -38,6 +38,19 @@
             "original-lang": "english",
             "country": "USA",
             "DNF": false
+        },
+        {
+            "title": "If I had your face",
+            "author": "Frances Cha",
+            "sex": "female",
+            "pages": 288,
+            "pub-date": 2020,
+            "genres": ["contemporary", "fiction"],
+            "rating": 3.5,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "South Korea",
+            "DNF": false
         }
     ]
 }
