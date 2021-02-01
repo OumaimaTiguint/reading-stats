@@ -46,10 +46,23 @@
             "pages": 288,
             "pub-date": 2020,
             "genres": ["contemporary", "fiction"],
-            "rating": 3.5,
+            "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
             "country": "South Korea",
+            "DNF": false
+        },
+        {
+            "title": "دقات الشامو",
+            "author": "عمرو عبدالحميد",
+            "sex": "male",
+            "pages": 303,
+            "pub-date": 2019,
+            "genres": ["fantasy", "fiction"],
+            "rating": 4,
+            "Lang-read": "arabic",
+            "original-lang": "arabic",
+            "country": "Egypt",
             "DNF": false
         }
     ]
