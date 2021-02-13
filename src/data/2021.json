@@ -11,7 +11,8 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country": "USA",
-            "DNF": false
+            "DNF": false,
+            "type": "physical"
         },
         {
             "title": "A Boy Called Christmas",
@@ -24,7 +25,8 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country": "UK",
-            "DNF": false
+            "DNF": false,
+            "type": "e-book"
         },
         {
             "title": "The sparrow",
@@ -37,7 +39,8 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country": "USA",
-            "DNF": false
+            "DNF": false,
+            "type": "e-book"
         },
         {
             "title": "If I had your face",
@@ -50,7 +53,8 @@
             "Lang-read": "english",
             "original-lang": "english",
             "country": "South Korea",
-            "DNF": false
+            "DNF": false,
+            "type": "e-book"
         },
         {
             "title": "دقات الشامو",
@@ -63,7 +67,8 @@
             "Lang-read": "arabic",
             "original-lang": "arabic",
             "country": "Egypt",
-            "DNF": false
+            "DNF": false,
+            "type": "e-book"
         }
     ]
 }
