@@ -2,7 +2,8 @@ import React from 'react';
 import '../App.css';
 
 const favorites = [
-    { title: 'The Final Empire', img: 'the-final-empire.jpg' }
+    { title: 'The Final Empire', img: 'the-final-empire.jpg' },
+    { title: "The Ones who walked away from Omelas", img: 'omelas.jpg' }
 ]
 
 class Favorites extends React.Component {

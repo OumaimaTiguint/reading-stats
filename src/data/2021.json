@@ -195,6 +195,20 @@
             "country": "UK",
             "DNF": false,
             "type": "e-book"
+        },
+        {
+            "title": "The ones who walked away from Omelas",
+            "author": "Ursula K. Le Guin",
+            "sex": "female",
+            "pages": 32,
+            "pub-date": 1973,
+            "genres": ["sci-fi","classics","fiction"],
+            "rating": 5,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "USA",
+            "DNF": false,
+            "type": "e-book"
         }
     ]
 }
