@@ -54,8 +54,8 @@ body {
   padding: 10px
 }
 .favorites img {
-  width: 20%;
-  height: 180px;
+  width: 15%;
+  height: auto;
   margin: 15px
 }
 .third {
@@ -115,6 +115,14 @@ th, td {
   padding: 10px;
 }
 
+.map {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+}
+#vector-map {
+  width: 100% !important;
+  height: 500px
+}
 @media screen and (max-width: 425px) {
   .top {
     display: flex;

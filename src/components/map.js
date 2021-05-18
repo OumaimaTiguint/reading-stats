@@ -16,41 +16,45 @@ const sizeGroups = [1, 5, 10, 40];
 const bounds = [-180, 85, 180, -60];
 
 export default function MapChart() {
-    
-    return (
-      <div>
-        <h3 style={{textAlign: 'center'}}>Books from around the world</h3>
-        <VectorMap id="vector-map" bounds={bounds}>
-            <Layer
-                dataSource={mapsData.world}
-                hoverEnabled={false}>
-            </Layer>
-            <Layer
-                dataSource={markers}
-                name="bubbles"
-                elementType="bubble"
-                dataField="value"
-                minSize={20}
-                maxSize={40}
-                sizeGroups={sizeGroups}
-                opacity="0.7">
-                <Label enabled={false}></Label>
-            </Layer>
-            <Tooltip 
-                enabled={true}
-                customizeTooltip={customizeTooltip}>
-            </Tooltip>
-            <Legend
-                markerShape="circle"
-                customizeItems={customizeItems}
-                customizeText={customizeText}>
-                <Source layer="bubbles" grouping="size"></Source>
-            </Legend>
-            <Tooltip enabled={true}
-                customizeTooltip={customizeTooltip} />
-        </VectorMap>
+  return (
+    <div class="map">
+      <div class="right">
+        <h3>Books from around the world</h3>
+        <img alt="earth illustration" src="earth.png"></img>
       </div>
-    );
+        
+      <VectorMap id="vector-map" bounds={bounds}>
+        <Layer
+          dataSource={mapsData.world}
+          hoverEnabled={false}>
+        </Layer>
+        <Layer
+          dataSource={markers}
+          name="bubbles"
+          elementType="bubble"
+          dataField="value"
+          minSize={20}
+          maxSize={40}
+          sizeGroups={sizeGroups}
+          opacity="0.7">
+          <Label enabled={false}></Label>
+        </Layer>
+        <Tooltip 
+          enabled={true}
+          customizeTooltip={customizeTooltip}>
+        </Tooltip>
+        <Legend
+          markerShape="circle"
+          customizeItems={customizeItems}
+          customizeText={customizeText}>
+          <Source layer="bubbles" grouping="size"></Source>
+        </Legend>
+        <Tooltip 
+          enabled={true}
+          customizeTooltip={customizeTooltip} />
+      </VectorMap>
+    </div>
+  );
 }
 
 function customizeTooltip(arg) {
