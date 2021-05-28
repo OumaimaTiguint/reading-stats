@@ -349,6 +349,34 @@
             "country": "Sweden",
             "DNF": false,
             "type": "e-book"
+        },
+        {
+            "title": "Walking to Aldebaran",
+            "author": "Adrian Tchaikovsky",
+            "sex": "male",
+            "pages": 144,
+            "pub-date": 2019,
+            "genres": ["sci-fi","fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "UK",
+            "DNF": false,
+            "type": "e-book"
+        },
+        {
+            "title": "Between Beirut And The Moon",
+            "author": "Naji Bakhti",
+            "sex": "male",
+            "pages": 300,
+            "pub-date": 2020,
+            "genres": ["contemporary","fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "Lebanon",
+            "DNF": false,
+            "type": "e-book"
         }
     ]
 }

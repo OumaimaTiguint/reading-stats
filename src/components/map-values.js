@@ -14,6 +14,7 @@ let frnc = 0;
 let china = 0;
 let sudan = 0;
 let philippines = 0
+let lebanon = 0
 
 data.data.map(elem => {
     if(elem.country === 'USA') {
@@ -42,8 +43,10 @@ data.data.map(elem => {
         sudan++
     } else if(elem.country === 'Philippines') {
       philippines++
-  }
-    return {usa, uk, aus, jpn, egpt, cnd, irlnd, skr, swdn, frnc, china, sudan, philippines};
+  } else if(elem.country === 'Lebanon') {
+    lebanon++
+}
+    return {usa, uk, aus, jpn, egpt, cnd, irlnd, skr, swdn, frnc, china, sudan, philippines, lebanon};
 })
 
 export const markers = {
@@ -113,6 +116,11 @@ export const markers = {
         coordinates: [30.1996, 15.7861],
         text: 'Sudan',
         value: sudan
+      },
+      {
+        coordinates: [35.495480, 	33.888630],
+        text: 'Lebanon',
+        value: lebanon
       },
     ].map(data => {
         return {
