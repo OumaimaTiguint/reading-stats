@@ -1,6 +1,7 @@
 import React from 'react';
 //import dt2020 from '../data/2020.json';
 import data from '../data/2021.json';
+import Rating from '@material-ui/lab/Rating';
 import '../App.css';
 
 class List extends React.Component {
@@ -8,28 +9,23 @@ class List extends React.Component {
         return (
             <div className="list">
                 <h2>Everything I read this year</h2>
-                <table className="table">
-                    <thead>
-                    <tr>
-                        <th>Title</th>
-                        <th>Author</th>
-                        <th>Rating</th>
-                        <th>Pages</th>
-                        <th>Publication Date</th>
-                        <th>Original Language</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    {data.data.map((elem, i) => <tr key={i}>
-                        <td>{elem.title}</td>
-                        <td>{elem.author}</td>
-                        <td>{elem.rating}/5</td>
-                        <td>{elem.pages}</td>
-                        <td>{elem["pub-date"]}</td>
-                        <td>{elem["original-lang"]}</td>
-                    </tr>)}
-                    </tbody>
-                </table>
+                <div className="list-content">
+                {
+                    data.data.map(e => {
+                        return (
+                            <div className="card">
+                                <img alt={e.title} src={e.img} /><br/>
+                                <Rating 
+                                    className="rating" 
+                                    name="half-rating-read" 
+                                    defaultValue={e.rating} 
+                                    precision={0.5} 
+                                    readOnly />
+                            </div>
+                        )
+                    })
+                }
+                </div>
             </div>
         )
     }

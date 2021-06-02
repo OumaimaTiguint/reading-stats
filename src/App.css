@@ -54,8 +54,6 @@ body {
   padding: 10px
 }
 .favorites img {
-  width: 150px;
-  height: 220px;
   margin: 15px
 }
 .third {
@@ -91,28 +89,16 @@ body {
   text-align: center;
   margin: 20px
 }
-.list h2 {
-  text-align: center;
-  grid-area: title;
-  font-size: 18px;
-  font-weight: bold;
-  font-family: 'Poppins', sans-serif;
-  padding: 10px
+.list-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
-
-
-table {
-  width: 80%;
-  margin: 10px auto
-}
-
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-
-th, td {
+.card {
+  margin: 10px;
+  background-color: #E8E8E8;
   padding: 10px;
+  border-radius: 10px;
 }
 
 .map {
@@ -171,19 +157,5 @@ th, td {
   .n-release {
     width: 90%;
     margin: 10px auto
-  }
-  table {
-    width: 40%;
-    margin: 10px auto
-  }
-  
-  table, th, td {
-    border: 0.7px solid black;
-    border-collapse: collapse;
-  }
-  
-  th, td {
-    padding: 0px;
-    font-size: 10px;
   }
 }
