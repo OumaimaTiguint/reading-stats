@@ -17,7 +17,9 @@ class NewReleases extends React.Component {
         return (
             <div className="n-release">
                 <h2>2021 Releases</h2>
-        {newRelease.map((elem, i) => <p key={i}>{elem.title} by {elem.author}</p>)}
+                {newRelease.map((elem, i) => (
+                    <p key={i}><strong>{elem.title}</strong> by {elem.author}</p>
+                ))}
             </div>
         )
     }

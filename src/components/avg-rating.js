@@ -17,7 +17,7 @@ class AvgRating extends React.Component {
     render() {
         return (
             <div className="pages">
-                <h3>Average Rating: </h3>
+                <h3>Average Rating:<small>{n}</small></h3>
                 <Rating 
                     className="rating" 
                     name="half-rating-read" 

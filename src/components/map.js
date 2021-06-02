@@ -18,10 +18,7 @@ const bounds = [-180, 85, 180, -60];
 export default function MapChart() {
   return (
     <div class="map">
-      <div class="right">
-        <h3>Books from around the world</h3>
-        <img alt="earth illustration" src="earth.png"></img>
-      </div>
+      <h3>Books from around the world</h3>
         
       <VectorMap id="vector-map" bounds={bounds}>
         <Layer

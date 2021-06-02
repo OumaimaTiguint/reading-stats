@@ -54,8 +54,8 @@ body {
   padding: 10px
 }
 .favorites img {
-  width: 15%;
-  height: auto;
+  width: 150px;
+  height: 220px;
   margin: 15px
 }
 .third {
@@ -116,11 +116,12 @@ th, td {
 }
 
 .map {
-  display: grid;
-  grid-template-columns: 1fr 6fr;
+  display: block;
+  text-align: center;
 }
 #vector-map {
-  width: 100% !important;
+  width: 80% !important;
+  margin: auto;
   height: 500px
 }
 @media screen and (max-width: 425px) {
