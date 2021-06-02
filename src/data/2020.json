@@ -10,7 +10,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449142000l/22816087.jpg",
+            "favorite": false
         },
         {
             "title": "The egg",
@@ -23,7 +27,11 @@
             "Lang-read": "english",
             "original-lang": "english",
             "coordinates": [36.778259, -119.417931],
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431492647l/17563539.jpg",
+            "favorite": false
         },
         {
             "title": "Lucky Jim",
@@ -35,7 +43,11 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "UK"
+            "country": "UK",
+            "DNF": false,
+            "type": "physical",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373459729l/395182.jpg",
+            "favorite": false
         },
         {
             "title": "Nevernight",
@@ -47,7 +59,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "Australia"
+            "country": "Australia",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688832l/26114463.jpg",
+            "favorite": true
         },
         {
             "title": "A brief history of time",
@@ -59,7 +75,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"UK"
+            "country":"UK",
+            "DNF": false,
+            "type": "physical",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869.jpg",
+            "favorite": false
         },
         {
             "title": "Godsgrave",
@@ -71,7 +91,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"Australia"
+            "country":"Australia",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500688862l/23264671.jpg",
+            "favorite": true
         },
         {
             "title": "Monster vol. 1",
@@ -83,7 +107,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF":false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 2",
@@ -95,7 +123,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Darkdawn",
@@ -107,7 +139,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"Australia"
+            "country":"Australia",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552521425l/23264672._SY475_.jpg",
+            "favorite": true
         },
         {
             "title": "Monster vol. 3",
@@ -119,7 +155,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 4",
@@ -131,7 +171,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 5",
@@ -143,7 +187,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 6",
@@ -155,7 +203,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 7",
@@ -167,7 +219,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 8",
@@ -179,7 +235,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 9",
@@ -191,7 +251,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 10",
@@ -203,7 +267,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 11",
@@ -215,7 +283,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 12",
@@ -227,7 +299,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 13",
@@ -239,7 +315,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 14",
@@ -251,7 +331,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 15",
@@ -263,7 +347,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 16",
@@ -275,7 +363,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 17",
@@ -287,7 +379,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "Monster vol. 18",
@@ -299,7 +395,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347479620l/879119.jpg",
+            "favorite": false
         },
         {
             "title": "The body",
@@ -311,7 +411,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"USA"
+            "country":"USA",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565810646l/43582376.jpg",
+            "favorite": true
         },
         {
             "title": "Le malade imaginaire",
@@ -323,7 +427,11 @@
             "rating": 3,
             "Lang-read": "french",
             "original-lang": "french",
-            "country": "France"
+            "country": "France",
+            "DNF":false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1178937647l/857213.jpg",
+            "favorite": false
         },
         {
             "title": "A man called Ove",
