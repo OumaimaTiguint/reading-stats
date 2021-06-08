@@ -443,7 +443,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "swedish",
-            "country": "Sweden"
+            "country": "Sweden",
+            "DNF": false,
+            "type": "audiobook",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405259930l/18774964.jpg",
+            "favorite": false
         },
         {
             "title": "Station Eleven",
@@ -455,7 +459,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446835l/20170404._SX318_SY475_.jpg",
+            "favorite": true
         },
         {
             "title": "Machines like me",
@@ -467,7 +475,11 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"UK"
+            "country":"UK",
+            "DNF":false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552757135l/42086795._SY475_.jpg",
+            "favorite": false
         },
         {
             "title": "The grownup",
@@ -479,7 +491,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441679582l/26025580.jpg",
+            "favorite": false
         },
         {
             "title": "The lathe of heaven",
@@ -491,7 +507,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "no idea"
+            "country": "no idea",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433084322l/59924.jpg",
+            "favorite": false
         },
         {
             "title": "Reasons to stay alive",
@@ -503,7 +523,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"UK"
+            "country":"UK",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418674667l/23363874.jpg",
+            "favorite": true
         },
         {
             "title": "Miracle creek",
@@ -515,7 +539,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "South Korea"
+            "country": "South Korea",
+            "DNF":false,
+            "type":"e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537287675l/40121959.jpg",
+            "favorite": true
         },
         {
             "title": "Uzumaki vol. 1",
@@ -527,7 +555,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF":false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389137178l/25152.jpg",
+            "favorite": false
         },
         {
             "title": "Uzumaki vol. 2",
@@ -539,7 +571,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF":false,
+            "type":"e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389137178l/25153.jpg",
+            "favorite":false
         },
         {
             "title": "Uzumaki vol. 3",
@@ -551,7 +587,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF":false,
+            "type":"e-book",
+            "favorite": false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344700684l/25154.jpg"
         },
         {
             "title": "How to stop time",
@@ -563,7 +603,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "UK"
+            "country": "UK",
+            "DNF": false,
+            "type": "e-book",
+            "favorite": true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1504859747l/35411685.jpg"
         },
         {
             "title": "Orange vol. 1",
@@ -576,7 +620,11 @@
             "Lang-read": "english",
             "original-lang": "japanese",
             "coordinates": [36.2048, 138.2529],
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451245856l/25667474.jpg"
         },
         {
             "title": "Orange vol. 2",
@@ -588,7 +636,11 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463161823l/26247042._SX318_.jpg"
         },
         {
             "title": "أرض زيكولا",
@@ -600,7 +652,11 @@
             "rating": 4,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "country": "Egypt"
+            "country": "Egypt",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441287700l/9753375._SX318_.jpg"
         },
         {
             "title": "Invisible women",
@@ -613,7 +669,11 @@
             "Lang-read": "english",
             "original-lang": "english",
             "coordinates": [53.5500, 2.4333],
-            "country": "UK"
+            "country": "UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617113740l/41104077.jpg"
         },
         {
             "title": "Scythe",
@@ -625,7 +685,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172676l/28954189.jpg"
         },
         {
             "title": "Thunderhead",
@@ -637,7 +701,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505658534l/33555224._SY475_.jpg"
         },
         {
             "title": "The picture of Dorian Gray",
@@ -649,7 +717,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "Ireland"
+            "country": "Ireland",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297.jpg"
         },
         {
             "title": "The toll",
@@ -661,7 +733,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558117336l/43822024.jpg"
         },
         {
             "title": "أماريتا",
@@ -673,7 +749,11 @@
             "rating": 3,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "country": "Egypt"
+            "country": "Egypt",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453065317l/28590941._SY475_.jpg"
         },
         {
             "title": "Notes on a nervous planet",
@@ -685,7 +765,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "UK"
+            "country": "UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539107959l/40404801.jpg"
         },
         {
             "title": "Maybe you should talk to someone",
@@ -697,7 +781,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547189796l/37570546.jpg"
         },
         {
             "title": "Get a life Chloe Brown",
@@ -709,7 +797,11 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614273529l/43884209.jpg"
         },
         {
             "title": "The travelling cat chronicles",
@@ -721,7 +813,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532711745l/40961230._SX318_.jpg"
         },
         {
             "title": "The midnight library",
@@ -733,7 +829,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "UK"
+            "country": "UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582801975l/48693877._SX318_.jpg"
         },
         {
             "title": "Emergency skin",
@@ -745,7 +845,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"USA"
+            "country":"USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563468452l/49669410._SX318_SY475_.jpg"
         },
         {
             "title": "1Q84",
@@ -757,7 +861,11 @@
             "rating": 1,
             "Lang-read": "french",
             "original-lang": "japanese",
-            "country": "Japan"
+            "country": "Japan",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448313203l/27885573._SY475_.jpg"
         },
         {
             "title": "I'm thinking of ending things",
@@ -769,7 +877,11 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "Canada"
+            "country": "Canada",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529610169l/40605223._SY475_.jpg"
         },
         {
             "title": "The radium girls",
@@ -781,7 +893,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"USA"
+            "country":"USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496007867l/31409135._SY475_.jpg"
         },
         {
             "title": "The night swim",
@@ -793,7 +909,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"USA"
+            "country":"USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569898236l/51169341.jpg"
         },
         {
             "title": "My Cousin Rachel",
@@ -805,7 +925,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"UK"
+            "country":"UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386609405l/18869970.jpg"
         },
         {
             "title": "Before I Go To Sleep",
@@ -817,7 +941,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "UK"
+            "country": "UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358353512l/9736930.jpg"
         },
         {
             "title": "NeverWorld Wake",
@@ -829,7 +957,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1517426178l/36545927.jpg"
         },
         {
             "title": "End of Watch",
@@ -841,7 +973,11 @@
             "rating": 4,
             "Lang-read": "french",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"physical",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511289068l/25526965._SY475_.jpg"
         },
         {
             "title": "Stories of your life and others",
@@ -853,7 +989,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country": "USA"
+            "country": "USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380.jpg"
         },
         {
             "title": "قواعد جارتين",
@@ -865,7 +1005,11 @@
             "rating": 4,
             "Lang-read": "arabic",
             "original-lang": "arabic",
-            "country":"Egypt"
+            "country":"Egypt",
+            "DNF": false,
+            "type":"physical",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531813962l/40718442.jpg"
         },
         {
             "title": "Packing for Mars: The Curious Science of Life in the Void",
@@ -877,7 +1021,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"USA"
+            "country":"USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349098526l/9542311.jpg"
         },
         {
             "title": "Gyo",
@@ -889,7 +1037,11 @@
             "rating": 4,
             "Lang-read": "english",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550552222l/22716175.jpg"
         },
         {
             "title": "The Devil and The Dark Water",
@@ -901,7 +1053,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"UK"
+            "country":"UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585584090l/51854625.jpg"
         },
         {
             "title": "Genki I: An Integrated Course in Elementary Japanese",
@@ -913,7 +1069,11 @@
             "rating": null,
             "Lang-read": "japanese",
             "original-lang": "japanese",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1223635699l/791506.jpg"
         },
         {
             "title": "Awakening Your Ikigai: How the Japanese Wake Up to Joy and Purpose Every Day",
@@ -925,7 +1085,11 @@
             "rating": 3,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"Japan"
+            "country":"Japan",
+            "DNF": false,
+            "type":"audiobook",
+            "favorite":false,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510184583l/36496221._SX318_.jpg"
         },
         {
             "title": "The Burning God",
@@ -937,7 +1101,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"China"
+            "country":"China",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584965579l/45857086._SY475_.jpg"
         },
         {
             "title": "One By One",
@@ -949,7 +1117,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"UK"
+            "country":"UK",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587655884l/50892433._SY475_.jpg"
         },
         {
             "title": "The Invisible Life of Addie LaRue",
@@ -961,7 +1133,11 @@
             "rating": 5,
             "Lang-read": "english",
             "original-lang": "english",
-            "country":"USA"
+            "country":"USA",
+            "DNF": false,
+            "type":"e-book",
+            "favorite":true,
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864.jpg"
         }
     ]
 }
