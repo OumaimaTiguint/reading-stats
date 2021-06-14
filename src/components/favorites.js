@@ -11,7 +11,8 @@ class Favorites extends React.Component {
                     data.data.map(e => {
                         if(e.favorite) {
                             return <img alt={e.title} src={e.img} />
-                        }
+                        } 
+                        return null
                     })
                 }
             </div>
