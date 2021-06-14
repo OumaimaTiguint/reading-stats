@@ -431,6 +431,22 @@
             "type": "e-book",
             "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593971385l/54401823._SX98_.jpg",
             "favorite": false
+        },
+        {
+            "title": "Klara and the Sun",
+            "author": "Kazuo Ishiguro ",
+            "sex": "male",
+            "pages": 304,
+            "pub-date": 2021,
+            "genres": ["sci-fi","fiction"],
+            "rating": 3,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "UK",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SY475_.jpg",
+            "favorite": false
         }
     ]
 }
