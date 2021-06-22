@@ -447,6 +447,22 @@
             "type": "e-book",
             "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603206535l/54120408._SX98_.jpg",
             "favorite": false
+        },
+        {
+            "title": "Remote Control",
+            "author": "Nnedi Okorafor",
+            "sex": "female",
+            "pages": 156,
+            "pub-date": 2021,
+            "genres": ["sci-fi","fiction"],
+            "rating": null,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "USA",
+            "DNF": true,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587580886l/34215764._SY75_.jpg",
+            "favorite": false
         }
     ]
 }
