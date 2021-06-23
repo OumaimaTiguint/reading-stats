@@ -461,7 +461,23 @@
             "country": "USA",
             "DNF": true,
             "type": "e-book",
-            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587580886l/34215764._SY75_.jpg",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587580886l/34215764._SX98_.jpg",
+            "favorite": false
+        },
+        {
+            "title": "The Kiss Quotient",
+            "author": "Helen Hoang",
+            "sex": "female",
+            "pages": 323,
+            "pub-date": 2018,
+            "genres": ["contemporary","fiction"],
+            "rating": 4,
+            "Lang-read": "english",
+            "original-lang": "english",
+            "country": "USA",
+            "DNF": false,
+            "type": "e-book",
+            "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527983633l/36199084._SX98_.jpg",
             "favorite": false
         }
     ]
