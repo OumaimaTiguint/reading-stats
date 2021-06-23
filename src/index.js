@@ -11,11 +11,13 @@ import Favorites from './components/favorites';
 import NewReleases from './components/new-releases';
 import AvgRating from './components/avg-rating';
 import List from './components/list';
+import DateSelection from './components/date-selection';
 import './App.css';
 import MapChart from './components/map';
 
 ReactDOM.render(
   <React.StrictMode>
+    <DateSelection />
     <div className="top">
       <App />
       <AvgRating />
